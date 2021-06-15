@@ -10,7 +10,7 @@
 4) dealing imbalanced data into two type 
     1) under sampling
     2) over sampling
-5) under sampling
+# 5) under sampling
   1) removing outliers
   2) splitting of data
   3) building model 
@@ -22,7 +22,7 @@
      6)grading boost
    4) hypertuning of all the model
    5) predicting the results
-6) over sampling 
+# 6) over sampling 
    1) smote over sampling
    2) building same models
    3) hypertuning 
